@@ -2,7 +2,6 @@
     <div class="block-header">
         <h2>
             DATA BUKU
-            <!-- <small>Taken from <a href="https://datatables.net/" target="_blank">datatables.net</a></small> -->
         </h2>
     </div>
     <!-- Basic Examples -->
@@ -43,9 +42,6 @@
                             </thead>
                             <tbody>
                                 <?php
-                                //mysqli_fetch_array($variabel)
-
-                                //mysqli_query($koneksi"Query") example ("SELECT * FROM ...")
                                 $buku = "SELECT * FROM tbl_buku";
                                 $query = mysqli_query($koneksi, $buku);
                                 while ($data = mysqli_fetch_array($query)) {

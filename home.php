@@ -17,7 +17,6 @@
     <div class="block-header">
         <h2>
             DASHBOARD
-            <!-- <small>Taken from <a href="https://datatables.net/" target="_blank">datatables.net</a></small> -->
         </h2>
 
     </div>
