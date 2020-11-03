@@ -8,8 +8,9 @@ Aplikasi ini dibangun dengan menggunakan bahasa pemrograman PHP dengan memakai T
 3. CRUD Transaksi Pinjaman
 
 # Login
-Nama Pengguna : admin
-Kata Sandi : admin
+1. Nama Pengguna : admin
+2. Kata Sandi : admin
+
 # Link demo aplikasi :
 https://pinjaman-buku.000webhostapp.com/
 
